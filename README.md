@@ -46,6 +46,33 @@ Ce depot sert a:
 - Point d'entree: `index.html`
 - Peut utiliser Ionicons
 
+## Screenshots
+
+### custom-shape-button-with-hover-effects
+
+![Custom shape button before](custom-shape-button-with-hover-effects/Screenshot.png)
+![Custom shape button after](custom-shape-button-with-hover-effects/Screenshot2.png)
+
+### digital-clock
+
+![Digital clock](digital-clock/Screenshot.png)
+
+### glassmorphism-animation-effects
+
+![Glassmorphism animation](glassmorphism-animation-effects/Screenshot.png)
+
+### glowing-button-hover-effect-02
+
+![Glowing button](glowing-button-hover-effect-02/Screenshot.png)
+
+### isometric-menu-hover-effect
+
+![Isometric menu](isometric-menu-hover-effect/Screenshot.png)
+
+### magic-navigation-menu-indicator
+
+![Magic navigation menu indicator](magic-navigation-menu-indicator/Screenshot.png)
+
 ## Prerequis
 
 - Navigateur web moderne (Chrome, Firefox, Safari, Edge)
